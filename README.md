@@ -1,5 +1,6 @@
-## Hi there 👋
-
+ 
+# Hi, I'm Heeral 👋
+![Banner](link-to-your-image)
 <!--
 **heeralsheth/heeralsheth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

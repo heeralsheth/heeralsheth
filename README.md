@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=200&section=header&text=Heeral%20Sheth&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=200&section=header&text=Heeral%20Sheth&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff" width="100%" />
 </p>
 # Hi, I'm Heeral Sheth 👋
 
@@ -45,8 +45,4 @@ I really appreciate you taking the time to look through my journey. If you’re 
 
 ---
 ![Heeral's GitHub stats](https://github-readme-stats.vercel.app/api?username=heeralsheth&show_icons=true&theme=react&bg_color=007BFF&title_color=ffffff&text_color=ffffff&border_color=007BFF)
-### ⚡ Skills at a Glance
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+ 

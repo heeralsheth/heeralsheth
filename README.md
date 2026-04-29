@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=200&section=header&text=Heeral%20Sheth&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
 # Hi, I'm Heeral Sheth 👋
 
 **Healthcare Data Analyst & Developer | Passionate about finding stories in data**
@@ -19,6 +22,11 @@ I am a Data-Driven Developer specializing in building scalable **Spring Boot** a
 | **Dev & Automation** | Java, Spring Boot, Python, Power Automate, Power Apps |
 | **Data Management** | SQL, Postman REST API, Git |
 
+### ⚡ Skills at a Glance
+![Java](https://img.shields.io/badge/Java-%23007BFF?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%23007BFF?style=for-the-badge&logo=spring&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%23007BFF?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-%23007BFF?style=for-the-badge&logo=powerbi&logoColor=white)
 ---
 
 ### 📊 GitHub Stats
@@ -36,7 +44,7 @@ I really appreciate you taking the time to look through my journey. If you’re 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heernee.pmp@gmail.com)
 
 ---
-
+![Heeral's GitHub stats](https://github-readme-stats.vercel.app/api?username=heeralsheth&show_icons=true&theme=react&bg_color=007BFF&title_color=ffffff&text_color=ffffff&border_color=007BFF)
 ### ⚡ Skills at a Glance
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 

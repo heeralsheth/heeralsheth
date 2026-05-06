@@ -29,10 +29,10 @@ I am a Data-Driven Developer specializing in building scalable **Spring Boot** a
 ![Power BI](https://img.shields.io/badge/Power_BI-%23007BFF?style=for-the-badge&logo=powerbi&logoColor=white)
 ---
 
-### 📊 GitHub Stats
+<! ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=heeralsheth&show_icons=true&theme=transparent&hide_border=true" alt="Heeral's GitHub stats" />
-</p>
+</p> *>
 
 ---
 

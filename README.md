@@ -49,7 +49,7 @@ I am a highly analytical **Back-End Java Developer in the AI Domain** with over 
 
 ### 🤝 Let's Connect!
 I really appreciate you taking the time to look through my journey. If you’re looking for a collaborator, have a technical question, or are just looking to expand your professional circle, please don't hesitate to get in touch. Looking forward to hearing from you!
-📈 Find Me Around the Web 
+### 📈 Find Me Around the Web 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heeralsheth)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23007BFF.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](file:///Users/nisheersheth/Documents/Heeralsheth-portfolio/healthcare%20theme/index%20copy.html#contact)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heernee.pmp@gmail.com)

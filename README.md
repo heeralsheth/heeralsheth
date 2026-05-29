@@ -1,6 +1,6 @@
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=200&section=header&text=Heeral%20Sheth&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff" width="100%" />
- # Hi there, I'm Hiral Sheth 👋
+ # Hi there 👋
 
 I am a highly analytical **Back-End Java Developer in the AI Domain** with over 8 years of professional experience engineering scalable distributed systems, enterprise data reconciliation engines, and intelligent software architectures. I specialize in bridging the gap between robust back-end engineering, advanced AI frameworks, and modern cloud-based data analytics.
 
